@@ -1,4 +1,4 @@
 package M223.Project.Controller;
 
-public class BauController {
+public class DocumentController {
 }
